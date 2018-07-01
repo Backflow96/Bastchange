@@ -1,0 +1,4 @@
+http://mysite.netlify.com/ https://mylink.com
+https://mysite.netlify.com/ https://mylink.com
+http://mysite.netlify.com/* https://mylink.com
+https://mysite.netlify.com/* https://mylink.com
